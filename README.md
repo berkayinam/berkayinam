@@ -7,22 +7,21 @@
 
 ---
 
-### 🧑‍💻 Benn
+### 🧑‍💻 Ben Neyim, Kimim, Neler Yaparım ?
 
-- 🎯 24 yaşındayım, sistem dünyasına tutkuyla bağlıyım.  
+- 🎯 Sistem dünyasına tutkuyla bağlıyım.  
 - 🐧 Linux, container teknolojileri ve otomasyon sistemlerine bayılıyorum.  
-- 🐱 Kedileri severim, Docker’ı daha çok 😄  
-- 📚 Şu anda Kubernetes, CI/CD ve GoLang üzerine derinleşiyorum.
+- 📚 Şu anda Kubernetes, CI/CD ve CLoud üzerinde derinleşiyorum.
 
 ---
 
 ### 🚀 DevOps & Backend Tech Stack
 
-- ⚙️ Tools & Platforms: `Docker`, `Kubernetes`, `Ansible`, `Vagrant`, `Minikube`, `Helm`
+- ⚙️ Tools & Platforms: `Docker`, `Kubernetes`, `Ansible`, `Minikube`, `Vagrant`, `Helm`
 - ☁️ Cloud: `AWS Cloud`, `Huawei Cloud`
 - 🛠️ Languages: `Go`, `C#`, `C` and `Bash`
 - 🗄️ Databases: `MongoDB`, `PostgreSQL`
-- 🌐 Web: `React (temel)` ve güzel Template çalarım
+- 🌐 Web: `HTML`, `CSS`, `JS` ve güzel Template çalarım
 
 ---
 
