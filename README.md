@@ -46,7 +46,7 @@
 
 ### 📫 Bana Ulaşın
 
-- 📧 Email: berkay.inam@hotmail.com
+- 📧 Email: berkay_inam@hotmail.com
 - 🕸️ Website: berkayinam.com.tr
 - 🌐 Linktree: [Linktree](https://linktr.ee/berkayinam)  
 - 🐦 Twitter: [@berkayinam](https://twitter.com/berkayinam)
