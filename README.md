@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Berkay İnam</h1>
-<h3 align="center">İstanbul, Türkiye'den tutkulu bir DevOps Mühendisi ve Go Backend API geliştiricisi 🇹🇷</h3>
+<h3 align="center">İstanbul, Türkiye'den tutkulu bir Cloud & AI Mühendisi 🇹🇷</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=berkayinam&label=Profile%20views&color=0e75b6&style=flat" alt="berkayinam" />
@@ -7,34 +7,36 @@
 
 ---
 
-### 🧑‍💻 Ben Neyim, Kimim, Neler Yaparım ?
+### Ben Neyim, Kimim, Neler Yaparım ?
 
-- 🎯 Sistem dünyasına tutkuyla bağlıyım.  
-- 🐧 Linux, container teknolojileri ve otomasyon sistemlerine bayılıyorum.  
-- 📚 Şu anda Kubernetes, CI/CD ve CLoud üzerinde derinleşiyorum.
-
----
-
-### 🚀 DevOps & Backend Tech Stack
-
-- ⚙️ Tools & Platforms: `Docker`, `Kubernetes`, `Ansible`, `Minikube`, `Vagrant`, `Helm`
-- ☁️ Cloud: `AWS Cloud`, `Huawei Cloud`
-- 🛠️ Languages: `Go`, `C#`, `C` and `Bash`
-- 🗄️ Databases: `MongoDB`, `PostgreSQL`
-- 🌐 Web: `HTML`, `CSS`, `JS` ve güzel Template çalarım
+- Cloud-native teknolojilere ve yapay zekâ çözümlerine tutkuyla bağlıyım.  
+- Büyük ölçekli sistemleri **cloud üzerinde ölçeklenebilir ve güvenli** şekilde tasarlamayı seviyorum.  
+- Makine öğrenmesi ve yapay zekâ uygulamalarını **MLOps** bakış açısıyla hayata geçirmeyi hedefliyorum.  
+- Şu anda **AWS, Kubernetes, AI model deployment ve Data Engineering** alanlarında derinleşiyorum.  
 
 ---
 
-### 📝 Gelecek Projeler
+### Cloud & AI Tech Stack
 
-- 🔧 [BlogSite](https://github.com/berkayinam/BlogSite) – Go ile yazılan blog mikroservis projesi (Devam ediyor) 
-- 🧠 [Kubernetes](https://github.com/berkayinam/Kubernetes) – K8s deployment örnekleri ve Notlarım
-- 💻 [42 Projects](https://github.com/berkayinam?tab=repositories&q=42) – Ecole 42'deki C ve ağ projeleri
-- 🔗 [KargoTakipWebApp](https://github.com/berkayinam/KargoTakipWebApp) [KargoTakip](https://github.com/berkayinam/KargoTakip) – Zevkine UPS Kargo web ve masaüstü versiyon  
+- Tools & Platforms: `Docker`, `Kubernetes`, `Terraform`, `Ansible`, `MLflow`
+- Cloud: `AWS`, `Azure`, `Huawei Cloud`
+- AI & Data: `TensorFlow`, `PyTorch`, `Scikit-Learn`, `Pandas`, `Spark`
+- Languages: `Python`, `Go`, `C#`, `Bash`
+- Databases: `PostgreSQL`, `MongoDB`, `Redis`, `BigQuery`
+- Web & API: `REST`, `GraphQL`, `FastAPI`, `gRPC`
 
 ---
 
-### 📊 GitHub Stats
+### Gelecek Projeler
+
+- [AI Model Deployment](https://github.com/berkayinam) – ML modellerini Kubernetes üzerinde otomatik deploy etme projesi  
+- [MLOps Pipeline](https://github.com/berkayinam) – CI/CD ile uçtan uca ML pipeline örneği  
+- [Cloud Native Projects](https://github.com/berkayinam) – AWS üzerinde serverless ve container bazlı projeler  
+- [Data Engineering Playground](https://github.com/berkayinam) – ETL süreçleri ve veri işleme notlarım  
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=berkayinam&show_icons=true&theme=tokyonight" alt="berkayinam stats" />
@@ -44,15 +46,14 @@
 
 ---
 
-### 📫 Bana Ulaşın
+### Bana Ulaşın
 
-- 📧 Email: berkay_inam@hotmail.com
-- 🕸️ Website: berkayinam.com.tr
-- 🌐 Linktree: [Linktree](https://linktr.ee/berkayinam)  
-- 🐦 Twitter: [@berkayinam](https://twitter.com/berkayinam)
+- Email: berkay_inam@hotmail.com  
+- Website: berkayinam.com.tr  
+- Linktree: [Linktree](https://linktr.ee/berkayinam)  
 
 ---
 
 ### 🐳 Fun Fact
 
-> Deneme.txt bile olsa otomasyona bağlarım - otomasyon benim hayatım 💙
+> Bir modeli eğitmek güzeldir ama onu **cloud’da ölçeklenebilir şekilde deploy etmek** gerçek sihirdir ✨
