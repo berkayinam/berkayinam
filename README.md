@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Berkay İnam</h1>
-<h3 align="center">İstanbul, Türkiye'den tutkulu bir Cloud & AI Mühendisi 🇹🇷</h3>
+<h3 align="center">İstanbul, Türkiye'den tutkulu bir Cloud & AI Mühendisiyim 🇹🇷</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=berkayinam&label=Profile%20views&color=0e75b6&style=flat" alt="berkayinam" />
@@ -48,7 +48,7 @@
 
 ### Bana Ulaşın
 
-- Email: berkay_inam@hotmail.com  
+- Email: berkay.inam@skyloop.ai
 - Website: berkayinam.com.tr  
 - Linktree: [Linktree](https://linktr.ee/berkayinam)  
 
