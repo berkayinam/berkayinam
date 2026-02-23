@@ -18,12 +18,10 @@
 
 ### Cloud & AI Tech Stack
 
-- Tools & Platforms: `Docker`, `Kubernetes`, `Terraform`, `Ansible`, `MLflow`
-- Cloud: `AWS`, `Azure`, `Huawei Cloud`
-- AI & Data: `TensorFlow`, `PyTorch`, `Scikit-Learn`, `Pandas`, `Spark`
+- Tools & Platforms: `Docker`, `Kubernetes`, `Terraform`, `Ansible`
+- Cloud: `AWS`, `Huawei Cloud`
 - Languages: `Python`, `Go`, `C#`, `Bash`
-- Databases: `PostgreSQL`, `MongoDB`, `Redis`, `BigQuery`
-- Web & API: `REST`, `GraphQL`, `FastAPI`, `gRPC`
+- Databases: `PostgreSQL`, `MongoDB`, `Redis`
 
 ---
 
